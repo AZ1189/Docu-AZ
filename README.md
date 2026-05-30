@@ -1,6 +1,6 @@
-# Docu-AZ
+﻿# Docu-AZ
 
-Version: 0.1.0
+Version: 0.1.3
 
 Full modern AZ word processor.
 
