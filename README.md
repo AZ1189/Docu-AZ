@@ -1,10 +1,10 @@
 # Docu-AZ
 
-Version: 0.1.17
+Version: 0.1.20
 
 Full modern AZ word processor.
 
-Version 0.1.17 adds shared AZ web GUI assets, smart action page controls,
-expanded smart-action smoke coverage, and further editor UI refinements.
+Version 0.1.20 improves app spellcheck behavior, pinned ribbon layouts,
+pinned preset controls, and object interaction coverage.
 
 Installers are published in GitHub Releases for AZ Manager.
