@@ -1,14 +1,10 @@
 # Docu-AZ
 
-Version: 0.1.22
+Version: 0.1.23
 
-Full modern AZ word processor.
-
-Version 0.1.22 adds Windows file association and Open With handling, opens
-PDFs in a protected viewer mode until Edit PDF is pressed, and keeps editable
-PDF layers hidden from accidental changes.
+Adds page header/footer region controls with smoke coverage, plus refreshed AZ branding/icons and installer artwork.
 
 Installer SHA-256:
-c29fe11a83a8f9e98ab290bce33514b309c4874303f7183aaacbf89edf1dca38
+3b48743a6b9ac50cec729756b92afeefab472fb30fdb7884c41fc28dfce7a0df
 
 Installers are published in GitHub Releases for AZ Manager.
