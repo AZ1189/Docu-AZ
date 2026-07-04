@@ -1,6 +1,6 @@
 # Docu-AZ
 
-Version: 1.0.3
+Version: 1.0.5
 
 Installer: Docu-AZ-Setup.exe
 
