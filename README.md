@@ -1,6 +1,6 @@
-# Docu-AZ
+﻿# Docu-AZ
 
-Version: 1.0.5
+Version: 1.0.6
 
 Installer: Docu-AZ-Setup.exe
 
@@ -8,3 +8,4 @@ Fixes object/stamp formatting details. Date stamps now insert as plain document 
 
 Installer SHA-256:
 a153a93a6bd2982e6f1fd9bd36c6d5756174020fd940bd251cc2aa029a5a6c54
+
