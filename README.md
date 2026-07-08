@@ -1,11 +1,10 @@
-﻿# Docu-AZ
+# Docu-AZ Installer
 
-Version: 1.0.6
+Public installer-only repository for Docu-AZ.
 
+Version: 1.0.1
 Installer: Docu-AZ-Setup.exe
+Release notes: Version 1.0.1. Updates the installer usage notice to list only the usage totals and sign-in account link that AZ apps save, rebuilds the signed installer, and keeps source code local-only.
+SHA-256: 5349708FAA900FB951F50BA1E9C62E5FBDD67C60A9B05D1F0569FB1478063543
 
-Fixes object/stamp formatting details. Date stamps now insert as plain document text instead of boxed objects, emoji and date insertion share a plain-text insertion path, object outlines can be set to None, stored object appearance preserves hidden outlines, text boxes avoid forced scrollbars, and the Object Format ribbon outline controls have more room. Includes smoke coverage for plain date insertion, hidden outlines, text box overflow, and object-format group spacing.
-
-Installer SHA-256:
-a153a93a6bd2982e6f1fd9bd36c6d5756174020fd940bd251cc2aa029a5a6c54
-
+Source code stays local-only and is not published in this repository.
