@@ -2,9 +2,9 @@
 
 Public installer-only repository for Docu-AZ.
 
-Version: 1.0.2
+Version: 1.0.3
 Installer: Docu-AZ-Setup.exe
-Release notes: Version 1.0.2. Publishes the current installer set one patch version ahead of 1.0.1, with installer-only GitHub releases and source code kept local-only.
-SHA-256: 35AEDF2F6FCDA93687EB76B4D535110EF0DE01D18552AEC32F50B90757217DE9
+Release notes: Version 1.0.3. Adds Light, Dark, and System theme controls to the Settings ribbon area across AZ apps, with refreshed installer-only GitHub releases and source code kept local-only.
+SHA-256: CCB419F27A490ABF9BD96387214494DF3A0479197AAD06EF82F98D6E85971805
 
 Source code stays local-only and is not published in this repository.
