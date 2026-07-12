@@ -2,9 +2,9 @@
 
 Public installer-only repository for Docu-AZ.
 
-Version: 1.0.4
+Version: 0.9.0
 Installer: Docu-AZ-Setup.exe
-Release notes: Version 1.0.4. Publishes the next +0.0.1 installer refresh for all AZ apps so AZ Manager can fetch current builds, with installer-only GitHub releases and source code kept local-only.
-SHA-256: 4EEBEDD6A253CECC374A48737E85AB642B22F81F8407E68B65B2F04537F31149
+Size: 96,770,696 bytes
+SHA-256: e0873ecccf4ab19cdbd927b8be9d819704c1ab0d78bba2ea628f6b57ce400d0a
 
 Source code stays local-only and is not published in this repository.
